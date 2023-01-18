@@ -10,7 +10,7 @@ The website can be viewed on any device.
 # Technologies:
 HTML, CSS, Sass (SCSS), BEM, Grid.
 
-# Implemented features in JS:
+# Implemented features:
 1. Hamburger menu.
 2. Responsive gallery.
 3. SEO optimized meta description.

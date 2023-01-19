@@ -19,7 +19,7 @@ HTML, CSS, Sass (SCSS), BEM, Grid.
 Landing page was implement according to
 [Figma design](https://www.figma.com/file/RWScbRqfMiupSIXuihheey/BOSE-(Copy)?node-id=0%3A1&t=GDEMzP78gSRqotVU-0)
 
-# How to lounch a project.
+# How to launch a project.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)

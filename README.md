@@ -1,4 +1,3 @@
-
 # Boss landing page
 SEO optimized landing page 'Boss' with an adaptive design.
 - [DEMO LINK](https://vladyslava-buzova.github.io/boss-landing)
